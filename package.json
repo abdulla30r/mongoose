@@ -1,0 +1,11 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "Mongoose learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC"
+}
